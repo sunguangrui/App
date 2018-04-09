@@ -51,6 +51,7 @@ public class MainActivity extends BaseActivity implements
     @Override
     public void setLayout() {
         setContentView(R.layout.activity_main);
+		setContentView(R.layout.activity_main_test);
     }
 
     @Override
