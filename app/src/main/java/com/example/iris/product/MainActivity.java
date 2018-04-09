@@ -49,7 +49,7 @@ public class MainActivity extends BaseActivity implements
     private static final String APP_CACAHE_DIRNAME = "/webcache";//app缓存地址
 
     @Override
-    public void setLayout1() {
+    public void setLayout2222() {
         setContentView(R.layout.activity_main);
 		setContentView(R.layout.activity_main_test);
     }
